@@ -8,8 +8,10 @@ title: Biography
 
 
 My Research interests is :
-- DTN
-- Networking
+- Information Security
+- Intrusion Detection System
+- Machine Learning
+- Deep Learning
 
 ## Skill
 - Skills 1
