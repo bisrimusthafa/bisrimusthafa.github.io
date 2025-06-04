@@ -40,7 +40,7 @@ params:
     site: 'https://bisrimusthafa.gitlab.io'
     mail: 'bisrimusthafa@s.okayama-u.ac.jp'
     # Full Link
-    # google_scholar: 'https://scholar.google.com/citations?user=000000000000&hl=en'
+    google_scholar: 'https://scholar.google.com/citations?user=ngA_cRYAAAAJ&hl=en'
     # scopus: 'https://www.scopus.com/authid/detail.uri?authorId=00000000000'
     #arxiv:
     #orcid:
