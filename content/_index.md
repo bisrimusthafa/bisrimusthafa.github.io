@@ -14,5 +14,7 @@ My Research interests is :
 - Deep Learning
 
 ## Skill
-- Skills 1
-- skill2 s
+- PHP
+- MySQL
+- Python
+- LLM
