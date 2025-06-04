@@ -36,7 +36,7 @@ params:
     employer:
       name: 'Okayama University'
       link: 'https://www.okayama-u.ac.jp'
-    #picture: 'profile.png'
+    picture: 'profile.png'
     site: 'https://bisrimusthafa.gitlab.io'
     mail: 'bisrimusthafa@s.okayama-u.ac.jp'
     # Full Link
