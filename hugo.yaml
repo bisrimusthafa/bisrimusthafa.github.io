@@ -32,7 +32,7 @@ params:
     name: 'Bisri'
     location: 'Japan'
     #pronouns:
-    bio: "(D1)"
+    bio: "(D3)"
     employer:
       name: 'Okayama University'
       link: 'https://www.okayama-u.ac.jp'
@@ -55,7 +55,7 @@ params:
     #bitbucket:
     #codepen:
     #dribbble:
-    github: 'mgpnata'
+    github: 'ichsancomp'
     #gitlab: 'dtn-ou'
     #kaggle:
     #stackoverflow:
