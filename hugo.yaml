@@ -1,6 +1,6 @@
 baseURL: 'https://bisrimusthafa.github.io'
 languageCode: 'en-us'
-title: 'DTNOU - Site'
+title: 'MUHAMMAD BISRI MUSTHAFA - Site'
 theme: 'dtnou-hugo'
 
 markup:
@@ -37,8 +37,8 @@ params:
       name: 'Okayama University'
       link: 'https://www.okayama-u.ac.jp'
     #picture: 'profile.png'
-    site: 'https://dtn-ou.gitlab.io'
-    mail: 'mpranata@s.okayama-u.ac.jp'
+    site: 'https://bisrimusthafa.gitlab.io'
+    mail: 'bisrimusthafa@s.okayama-u.ac.jp'
     # Full Link
     # google_scholar: 'https://scholar.google.com/citations?user=000000000000&hl=en'
     # scopus: 'https://www.scopus.com/authid/detail.uri?authorId=00000000000'
